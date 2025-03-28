@@ -33,13 +33,12 @@ _Obs.: Para facilitar a localização recomendo utilizar seu nome na branch_
 
 <img src="./assets/images/createdBranchExample.png" width="700">
 
-<br>
 
 #### 2. Agora precisamos enviar essa nova branch para o GitHub, para isso assine seu nome utilizando o editor de texto de sua preferência:
 
-<br>
+
 > **Essa branch pertence a:** "Seu nome"
-<br>
+
 
 #### 3. Com o seu nome assinado, faça seu primeiro push com os comandos abaixo:
 
