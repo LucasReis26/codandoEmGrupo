@@ -8,7 +8,7 @@ Devemos fazer isso para que não haja conflitos enquanto estivermos codando.
 
 **>> FAÇA ISSO ANTES DE CONTINUAR A LEITURA!! <<**
 
-- [**Como criar uma branch minha?**]()
+- [**Como criar uma branch minha?**](https://github.com/LucasReis26/codandoEmGrupo/blob/main/ajuda/criandoBranch.md)
 
 ## Descrição
 
