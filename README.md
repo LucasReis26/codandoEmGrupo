@@ -28,7 +28,7 @@ Bom, eu escolhi fazer esse repositório pois com ele eu consigo disponibilizar a
 
 ## Materiais:
 
-1. [**Comandos Linux**]()
+1. [**Comandos Linux**](https://github.com/LucasReis26/codandoEmGrupo/blob/main/ajuda/comandosLinux.md)
 
 1. [**Comandos GitHub**]()
 
