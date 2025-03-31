@@ -25,3 +25,31 @@ Bom, eu escolhi fazer esse repositório pois com ele eu consigo disponibilizar a
 1. Criar uma estrutura de pastas com todos os arquivos necessários para fazer os exercícios podendo ser atualizadas com comandos simples. 
 
 1. Termos fácil acesso ao código de colegas pra melhorar nosso repertório.
+
+## Materiais:
+
+1. [**Comandos Linux**]()
+
+1. [**Comandos GitHub**]()
+
+1. [**Redirecionamento de Entrada e Saída**]()
+
+1. [**Arquivos MakeFile**]()
+
+## Como utilizar o repositório?
+
+O repositório deve ser utilizado da seguinte maneira:
+
+1. Todos os exercícios serão feitos dentro da pasta exercicios
+
+1. Eu "Cinema" irei criar uma pasta do exercício que faremos no dia, a pasta terá a seguinte formatação: ex9999, que conterá tudo o que é necessário pra fazer os exercícios: enunciado, entradas e saídas.
+
+1. Após eu criar a pasta vocês devem dar pull na branch main para conseguir visualizar o exercício do dia.
+
+1. Os exercícios devem ser feitos no arquivo (*.c || *.cpp || *.java) localizados em suas respectivas pastas.
+
+1. Devemos tentar fazer o exercício sem utilizar qualquer tipo de auxílio (gpt e afins) durante 30 minutos! Após isso se ninguém tiver conseguido fazer o exercício utilizaremos o que for necessário para terminar o exercício, caso alguém tenha conseguido, o mesmo deve explicar para o restante como fez o exercício.
+
+_**Importante:** Se você utilizou o gpt antes dos 30 minutos acabarem, pelo menos avise que o fez._
+
+**Conclusão:** A ideia desse repositório é simular uma prova prática, se vocês decidirem fazer com o gpt ou algo assim vocês estarão enganando a si mesmos uma vez que na prova prática não tem gpt, a ideia não é julgar ninguém é geral se ajudar então pelo menos considere isso.
