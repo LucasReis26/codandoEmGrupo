@@ -30,7 +30,7 @@ Bom, eu escolhi fazer esse repositório pois com ele eu consigo disponibilizar a
 
 1. [**Comandos Linux**](https://github.com/LucasReis26/codandoEmGrupo/blob/main/ajuda/comandosLinux.md)
 
-1. [**Comandos GitHub**]()
+1. [**Comandos GitHub**](https://github.com/LucasReis26/codandoEmGrupo/blob/main/ajuda/comandosGitHub.md)
 
 1. [**Redirecionamento de Entrada e Saída**]()
 
