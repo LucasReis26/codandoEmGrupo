@@ -34,7 +34,7 @@ Bom, eu escolhi fazer esse repositório pois com ele eu consigo disponibilizar a
 
 1. [**Redirecionamento de Entrada e Saída**](https://github.com/LucasReis26/codandoEmGrupo/blob/main/ajuda/redirecionamentoEntradaSaida.md)
 
-1. [**Arquivos MakeFile**]()
+1. [**Arquivos MakeFile**](https://github.com/LucasReis26/codandoEmGrupo/blob/main/ajuda/arquivosMakeFile.md)
 
 
 1. [**Comandos Personalizados**]()
