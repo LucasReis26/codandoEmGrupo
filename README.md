@@ -37,7 +37,7 @@ Bom, eu escolhi fazer esse repositório pois com ele eu consigo disponibilizar a
 1. [**Arquivos MakeFile**](https://github.com/LucasReis26/codandoEmGrupo/blob/main/ajuda/arquivosMakeFile.md)
 
 
-1. [**Comandos Personalizados**]()
+1. [**Comandos Personalizados**](https://github.com/LucasReis26/codandoEmGrupo/tree/main/exercicios)
 
 ## Como utilizar o repositório?
 
