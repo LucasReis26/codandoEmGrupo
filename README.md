@@ -36,6 +36,9 @@ Bom, eu escolhi fazer esse repositório pois com ele eu consigo disponibilizar a
 
 1. [**Arquivos MakeFile**]()
 
+
+1. [**Comandos Personalizados**]()
+
 ## Como utilizar o repositório?
 
 O repositório deve ser utilizado da seguinte maneira:
