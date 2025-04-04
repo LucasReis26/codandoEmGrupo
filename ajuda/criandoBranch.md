@@ -39,7 +39,7 @@ _Obs.: Para facilitar a localização recomendo utilizar seu nome na branch_
 #### 2. Agora precisamos enviar essa nova branch para o GitHub, para isso assine seu nome utilizando o editor de texto de sua preferência:
 
 
-> **Essa branch pertence a:** "Seu nome"
+> **Essa branch pertence a:** "Lucas Fernandes Marinho"
 
 ---
 
