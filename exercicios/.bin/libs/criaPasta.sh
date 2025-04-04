@@ -12,6 +12,10 @@ criaPasta(){
 	touch "./ex$1/java/Ex$1.java"
 	echo "package ex$1.java" > "./ex$1/java/Ex$1.java"
 
+	mkdir "./ex$1/cs"
+	#touch "./ex$1/cs/ex$1.cpp"
+	dotnet new console -o "./ex$1/cs/ex$1"
+
 	echo "Deseja incluir as pubs?"
 	echo " 1 - Sim"
 	echo " 2 - Não"

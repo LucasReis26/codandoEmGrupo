@@ -20,6 +20,7 @@ then
 	echo " 1 - C"
 	echo " 2 - C++"
 	echo " 3 - Java"
+	echo " 4 - C#"
 	read -p "Sua opção: " op
 
 	testaPrograma "$ex" "$op"

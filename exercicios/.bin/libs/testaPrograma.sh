@@ -18,6 +18,11 @@ testaPrograma(){
 		java "ex$1.java.Ex$1" < "ex$1/pubs/pub.in" > "ex$1/program.out"
 		nvim -d "ex$1/program.out" "ex$1/pubs/pub.out"
 
+	elif [ "$2" -eq 4 ]
+	then
+		dotnet run --project "ex$1/cs/ex$1" < "ex$1/pubs/pub.in" > "ex$1/program.out"
+		nvim -d "ex$1/program.out" "ex$1/pubs/pub.out"
+
 	else
 		echo $'\nERROR: Linguagem não encontrada'
 	fi
