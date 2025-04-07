@@ -1,4 +1,4 @@
-//package ex2654.java;
+package ex2654.java;
 
 import java.util.Scanner;
 class Godofor{
