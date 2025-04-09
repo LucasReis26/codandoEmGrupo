@@ -10,7 +10,7 @@ criaPasta(){
 
 	mkdir "./ex$1/java"
 	touch "./ex$1/java/Ex$1.java"
-	echo "package ex$1.java" > "./ex$1/java/Ex$1.java"
+	echo "package ex$1.java;" > "./ex$1/java/Ex$1.java"
 
 	echo "Deseja incluir as pubs?"
 	echo " 1 - Sim"
