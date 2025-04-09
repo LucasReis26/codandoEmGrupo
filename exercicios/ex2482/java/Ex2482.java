@@ -36,10 +36,10 @@ public class Ex2482{
             idioma[i] = sc.nextLine();
         }
 
-        for(Pais valores : pais){
             for(int j = 0; j < quantCriancas; j++){
+                System.out.println(nome[j]);
+                for(Pais valores : pais){
                 if(idioma[j].equals(valores.idioma)){
-                    System.out.println(nome[j]);
                     System.out.println(valores.traducao);
                     System.out.println();
                 }
