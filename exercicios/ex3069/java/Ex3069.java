@@ -14,7 +14,6 @@ class Praia {
 
 public class Ex3069 {
 
-    // Método para comparar dois intervalos (ordena pelo início)
     public static int compararPraias(Praia a, Praia b) {
         if (a.inicio < b.inicio) {
             return -1;
@@ -25,7 +24,6 @@ public class Ex3069 {
         }
     }
 
-    // Ordenação por inserção baseada na comparação
     public static void ordenarInsercao(Praia[] praias) {
         for (int i = 1; i < praias.length; i++) {
             Praia tmp = praias[i];
@@ -54,7 +52,6 @@ public class Ex3069 {
                 praia[i] = new Praia(inicio, fim);
             }
 
-            // Ordena os intervalos usando ordenação por inserção
             ordenarInsercao(praia);
 
             System.out.println("Teste " + teste);
@@ -65,26 +62,26 @@ public class Ex3069 {
 
                 for (int i = 1; i < quantSorveteiros; i++) {
                     if (praia[i].inicio <= fimAtual) {
-                        // Intervalos se sobrepõem ou são adjacentes - une eles
                         if (praia[i].fim > fimAtual) {
                             fimAtual = praia[i].fim;
                         }
                     } else {
-                        // Imprime o intervalo atual e começa um novo
                         System.out.println(inicioAtual + " " + fimAtual);
                         inicioAtual = praia[i].inicio;
                         fimAtual = praia[i].fim;
                     }
                 }
-                // Imprime o último intervalo
                 System.out.println(inicioAtual + " " + fimAtual);
             }
+
+            // Adiciona uma linha em branco após cada caso de teste
+            System.out.println();
 
             compPraia = sc.nextInt();
             quantSorveteiros = sc.nextInt();
             teste++;
         }
-
+        
         sc.close();
     }
 }
